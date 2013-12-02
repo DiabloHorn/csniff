@@ -1,0 +1,5 @@
+This is a small raw socket sniffer for windows, it saves the captured packets to a pcap file.
+At the moment the ethernet header is faked, but see the comments on the this blog post to do it a more clean way:
+http://diablohorn.wordpress.com/2010/07/19/raw-sockets-pcap-files-wireshark-quirks/
+
+Be aware of the fact that after Windows XP, Microsoft has added a lot of limitations.
