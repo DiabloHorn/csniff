@@ -2,7 +2,6 @@
 	DiabloHorn http://diablohorn.wordpress.com
 	sniffer using raw sockets, saves in pcap format
 	admin privs needed :(
-	incomming traffic is not sniffed :(
 */
 #include "csniff.h"
 
